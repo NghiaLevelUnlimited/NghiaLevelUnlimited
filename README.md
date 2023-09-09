@@ -9,10 +9,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NghiaLevelUnlimited" alt="NghiaLevelUnlimited" /> <img src="https://badges.pufler.dev/repos/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" /> </p>
 
 - ✍ I'm a web developer.
-- ✍ I'm a web developer of: [FPT Polytechnic](https://www.facebook.com/polydn/?locale=vi_VN) (Fpoly).
+- ✍ I used to study at Fpoly : [FPT Polytechnic](https://www.facebook.com/polydn/?locale=vi_VN) (Fpoly).
 
 - 🌱 I’m currently learning **Laravel 9 and Php 8, 8.1.**
-
 
 ## 📫 How to reach me:
 <p align="center">
@@ -46,8 +45,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="NghiaLevelUnlimitedM" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="NghiaLevelUnlimitedM" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaLevelUnlimitedM&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="NghiaLevelUnlimitedM" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NghiaLevelUnlimitedM&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="NghiaLevelUnlimitedM" width="100%"/>
     </td>
     <td>
       <p align="center"> 
