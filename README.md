@@ -10,7 +10,7 @@
 - ✍ I'm a web developer.
 - ✍ I used to study at [FPT Polytechnic](https://www.facebook.com/polydn/?locale=vi_VN) (Fpoly).
 
-- 🌱 I’m currently learning **Laravel 9 and Php 8, 8.1.**
+- 🌱 I’m currently learning and working **Laravel 9 and Php 8, 8.1.**
 
 ## 📫 How to reach me:
 <p align="center">
@@ -56,3 +56,9 @@
     </td>
   </tr>
 </table>
+
+# Certificates:
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![F8](https://img.shields.io/badge/-F8-orange) Introductory IT Knowledge](https://fullstack.edu.vn/cert/u1olz)
