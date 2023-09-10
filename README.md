@@ -39,6 +39,7 @@
 ✔ I used to study at [FPT Polytechnic](https://www.facebook.com/polydn/?locale=vi_VN) (Fpoly)<br>
 ✔ I’m currently learning and working **Laravel 9 and Php 8, 8.1**🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ I'm open to collaborating on interesting projects 🤝<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 ## 📫 How to reach me:
