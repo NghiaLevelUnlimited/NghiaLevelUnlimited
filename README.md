@@ -6,11 +6,16 @@
   <img src="https://badges.pufler.dev/repos/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" />
   <img src="https://badges.pufler.dev/years/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" />
 </p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- ✍ I'm a web developer.
-- ✍ I used to study at [FPT Polytechnic](https://www.facebook.com/polydn/?locale=vi_VN) (Fpoly).
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🌱 I’m currently learning and working **Laravel 9 and Php 8, 8.1.**
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I'm a web developer<br>
+✔ I used to study at [FPT Polytechnic](https://www.facebook.com/polydn/?locale=vi_VN) (Fpoly)<br>
+✔ I’m currently learning and working **Laravel 9 and Php 8, 8.1**🥰<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 ## 📫 How to reach me:
 <p align="center">
