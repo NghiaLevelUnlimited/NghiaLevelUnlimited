@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## Skills:
+## <img width="48" height="48" src="https://img.icons8.com/avantgarde/48/000000/learning.png" alt="learning"/> Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
