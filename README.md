@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities:
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/000000/soccer-ball-emoji.png" alt="soccer-ball-emoji"/> Activities:
 <table style="width:100%;">
   <tr>
     <td>
