@@ -3,8 +3,8 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=NghiaLevelUnlimited&color=blueviolet&style=plastic" alt="NghiaLevelUnlimited" /> 
-  <img src="https://badges.pufler.dev/repos/NghiaLevelUnlimited&color=blueviole&style=plastic" alt="NghiaLevelUnlimited" />
-  <img src="https://badges.pufler.dev/years/NghiaLevelUnlimited&color=blueviole&style=plastic" alt="NghiaLevelUnlimited" />
+  <img src="https://badges.pufler.dev/repos/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" />
+  <img src="https://badges.pufler.dev/years/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" />
 </p>
 
 - ✍ I'm a web developer.
