@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
+## Activities:
 <table style="width:100%;">
   <tr>
     <td>
