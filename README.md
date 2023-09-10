@@ -40,8 +40,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NghiaLevelUnlimitedM&show_icons=true&theme=radical) alt="NghiaLevelUnlimitedM" width="100%"/>
-<!--       <img src="https://github-readme-stats.vercel.app/api?username=NghiaLevelUnlimitedM&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="NghiaLevelUnlimitedM" width="100%"/> -->
+      <img src="![NghiaLevelUnlimited's GitHub stats](https://github-readme-stats.vercel.app/api?username=NghiaLevelUnlimitedM&show_icons=true&theme=radical) alt="NghiaLevelUnlimited" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaLevelUnlimited&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="NghiaLevelUnlimited" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NghiaLevelUnlimited&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true" alt="NghiaLevelUnlimited" width="100%"/>
     </td>
     <td>
       <p align="center"> 
