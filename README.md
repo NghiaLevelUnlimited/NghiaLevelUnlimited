@@ -1,7 +1,11 @@
 <h1 align="center"> Hi 👋 , I'm Trung Nghia</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NghiaLevelUnlimited&color=blueviolet&style=plastic" alt="NghiaLevelUnlimited" /> <img src="https://badges.pufler.dev/repos/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=NghiaLevelUnlimited&color=blueviolet&style=plastic" alt="NghiaLevelUnlimited" /> 
+  <img src="https://badges.pufler.dev/repos/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" />
+  <img src="https://badges.pufler.dev/years/NghiaLevelUnlimited" alt="NghiaLevelUnlimited" />
+</p>
 
 - ✍ I'm a web developer.
 - ✍ I used to study at [FPT Polytechnic](https://www.facebook.com/polydn/?locale=vi_VN) (Fpoly).
