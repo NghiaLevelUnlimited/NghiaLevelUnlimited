@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
-  
+
 </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -43,6 +43,7 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 ## 📫 How to reach me:
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nghia-hoang-4bb40822a" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -59,6 +60,7 @@
 </p>
 
 ## 🐯 Skills:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -75,7 +77,6 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="![NghiaLevelUnlimited's GitHub stats](https://github-readme-stats.vercel.app/api?username=NghiaLevelUnlimited&show_icons=true&theme=neon)" alt="NghiaLevelUnlimited" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaLevelUnlimited&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="NghiaLevelUnlimited" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=NghiaLevelUnlimited&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true" alt="NghiaLevelUnlimited" width="100%"/>
     </td>
